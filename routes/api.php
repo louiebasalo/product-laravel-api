@@ -10,5 +10,3 @@ Route::get('/user', function (Request $request) {
 
 
 Route::apiResource('products',ProductController::class);
-
-// https://www.youtube.com/watch?v=WumgBzENYYk&list=PL2Antt9yUBE_-U9mpuv7_rEjQLaNcYVGm&index=26
